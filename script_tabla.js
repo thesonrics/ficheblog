@@ -1,5 +1,5 @@
 var myobj = JSON.parse(myJSONObject);
-var mylocman = JSON.parse(myJSONLocMan);
+//***var mylocman = JSON.parse(myJSONLocMan);
 var myloc = JSON.parse(myJSONLocalizacion);
 
 var isMobile = 0;
