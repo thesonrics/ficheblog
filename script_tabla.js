@@ -1,7 +1,3 @@
-<script type="text/javascript" src="https://rawgit.com/thesonrics/ficheblog/master/locMan.js"></script>
-<script type="text/javascript" src="https://rawgit.com/thesonrics/ficheblog/master/localizacion.js"></script>
-<script type="text/javascript" src="https://rawgit.com/thesonrics/ficheblog/master/datos_tabla.js"></script>
-
 var myobj = JSON.parse(myJSONObject);
 var mylocman = JSON.parse(myJSONLocMan);
 var myloc = JSON.parse(myJSONLocalizacion);
