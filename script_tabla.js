@@ -13,7 +13,7 @@ function crearQtips(){
 		$(this).attr('src', myobj[$(this).attr('nid')].url);
                 if (isMobile==0) {
                     $(this).wrap( 
-                        $('<a>').attr('href', 'http://treasure-cruise.blogspot.com/p/char.html?id=' + $(this).attr('nid')).attr('target','_blank')
+                        $('<a>').attr('href', 'https://optces.github.io/characters/#/view/' + $(this).attr('nid')).attr('target','_blank')
                     );
                 }
 		$(this).qtip({
